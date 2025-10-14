@@ -1,5 +1,19 @@
 id : sample
-name: システムタイトル
+names:
+  ja: サンプルシステム
+  en: Sample System 
 short_name: SMP
-description: サンプルシステムです。
-right_holder: サンプル権利者
+publisher:
+  ja: サンプル社
+  en: "SAMPLE Inc."
+copyright:
+  holder: "SAMPLE Inc."
+  year: 2025
+  notice: "© 2025 SAMPLE Inc."
+attributionTemplate:
+  ja: "『サンプルシステム』SAMPLE Inc.の登録商標です。"
+  en: "Sample System  is a trademark of SAMPLE Inc."
+links:
+  official: "https://example.com/"
+  rules: "https://example.com/rule/"
+  guidelines: "https://example.com/guideline/"
