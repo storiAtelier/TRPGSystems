@@ -1,0 +1,18 @@
+id: coc6
+name: クトゥルフ神話TRPG 第6版
+short_name: CoC6版
+description: "ラヴクラフトの創造した恐怖の神話世界を舞台にしたホラーTRPG"
+publisher: KADOKAWA/エンターブレイン
+copyright:
+  holder: "Chaosium Inc."
+  year: 2014
+  notice: "© 2014 Chaosium Inc."
+attributionTemplate: "Call of Cthulhu is copyright ©︎1981, 2015, 2019 by Chaosium Inc"
+links:
+  official: "https://product.kadokawa.co.jp/cthulhu/"
+  rules: "https://product.kadokawa.co.jp/cthulhu/"
+  guidelines: "https://product.kadokawa.co.jp/cthulhu/guideline.html"
+tags:
+  - "TRPG"
+  - "ホラー"
+  - "現代"

@@ -1,0 +1,19 @@
+id: boa
+name: ブレイド・オブ・アルカナ
+short_name: BoA
+description: "刻まれし者の聖痕が描く英雄譚"
+publisher: アークライト/新紀元社
+copyright:
+  holder: "F.E.A.R./TAG"
+  year: 2023
+  notice: "© F.E.A.R./TAG"
+attributionTemplate: "『ブレイド・オブ・アルカナ』はF.E.A.R./TAGの著作物です。"
+links:
+  official: "https://www.fear.co.jp/bladeofarcana/"
+  rules: "https://www.fear.co.jp/bladeofarcana/support.htm"
+  guidelines: ""
+tags:
+  - "TRPG"
+  - "ファンタジー"
+  - "英雄譚"
+  - "聖痕"

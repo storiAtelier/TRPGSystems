@@ -1,0 +1,19 @@
+id: dx3
+name: ダブルクロス The 3rd Edition
+short_name: DX3rd
+description: "異能者オーヴァードとなって、日常を守るTRPG"
+publisher: KADOKAWA/富士見書房
+copyright:
+  holder: "矢野俊策/F.E.A.R."
+  year: 2009
+  notice: "© 矢野俊策/F.E.A.R."
+attributionTemplate: "『ダブルクロス The 3rd Edition』は矢野俊策/F.E.A.R.の著作物です。"
+links:
+  official: "https://www.fear.co.jp/dx/"
+  rules: "https://www.fear.co.jp/dbx3rd/index.htm"
+  guidelines: ""
+tags:
+  - "TRPG"
+  - "現代"
+  - "異能力"
+  - "バトル"

@@ -1,0 +1,18 @@
+id: dnd5e
+name: ダンジョンズ&ドラゴンズ 第5版
+short_name: D&D5版
+description: "世界で最も有名なファンタジーTRPGの最新版"
+publisher: ホビージャパン
+copyright:
+  holder: "Wizards of the Coast LLC"
+  year: 2014
+  notice: "© 2014 Wizards of the Coast LLC"
+attributionTemplate: "『ダンジョンズ&ドラゴンズ』はWizards of the Coast LLCの登録商標です。"
+links:
+  official: "https://hobbyjapan.co.jp/dd/"
+  rules: "https://hobbyjapan.co.jp/dd/support/"
+  guidelines: ""
+tags:
+  - "TRPG"
+  - "ファンタジー"
+  - "冒険"

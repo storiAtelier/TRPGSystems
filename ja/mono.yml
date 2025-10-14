@@ -1,0 +1,19 @@
+id: mono
+name: モノトーンミュージアムRPG
+short_name: モノトーン
+description: "御標に背を向けた紡ぎ手たちのTRPG"
+publisher: KADOKAWA
+copyright:
+  holder: "すがのたすく/F.E.A.R."
+  year: 2011
+  notice: "© すがのたすく/F.E.A.R."
+attributionTemplate: "『モノトーンミュージアムRPG』はすがのたすく/F.E.A.R.の著作物です。"
+links:
+  official: "https://www.fear.co.jp/mono/"
+  rules: "https://www.fear.co.jp/mono/product.htm"
+  guidelines: ""
+tags:
+  - "TRPG"
+  - "ファンタジー"
+  - "メルヘン"
+  - "悲劇"

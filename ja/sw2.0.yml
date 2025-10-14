@@ -1,0 +1,18 @@
+id: sw2.0
+name: ソード・ワールド2.0
+short_name: SW2.0
+description: "剣と魔法の世界を旅するファンタジーTRPG"
+publisher: KADOKAWA/富士見書房
+copyright:
+  holder: "北沢慶/グループSNE"
+  year: 2008
+  notice: "© 北沢慶/グループSNE"
+attributionTemplate: "『ソード・ワールド2.0』は北沢慶/グループSNEの著作物です。"
+links:
+  official: "https://www.groupsne.co.jp/products/sw/"
+  rules: "https://www.groupsne.co.jp/products/sw/support/"
+  guidelines: ""
+tags:
+  - "TRPG"
+  - "ファンタジー"
+  - "冒険"
