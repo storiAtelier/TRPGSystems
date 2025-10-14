@@ -3,6 +3,9 @@ names:
   ja: サンプルシステム
   en: Sample System 
 short_name: SMP
+descriptions:
+  ja: "サンプル用のシステムです"
+  en: "This is the Sample System"
 publisher:
   ja: サンプル社
   en: "SAMPLE Inc."
