@@ -24,7 +24,7 @@ https://storiAtelier.github.io/TRPGSystems/ja/systems.json
   "publisher": "出版社",
   "copyright": {
     "holder": "著作権者",
-    "year": 年,
+    "year": (integer)年,
     "notice": "© 表記"
   },
   "attributionTemplate": "帰属表示テンプレート",
@@ -35,6 +35,31 @@ https://storiAtelier.github.io/TRPGSystems/ja/systems.json
   },
   "tags": ["タグ1", "タグ2"]
 }
+```
+
+## システムの追加
+
+システムを追加したい場合次のフォーマットでyamlを作成しPull Requestを提出してください。
+
+```yaml
+id: 管理用のIDです。システムの略称を英語小文字で (e.g. coc,ar2e)
+name: システムの正式名称
+ruby: システムの読み方
+short_name: システムの略称
+description: システムの説明、公式の用語を使ってください
+publisher: 出版元
+copyright:
+  holder: 著作権者
+  year: 出版年
+  notice: 著作権者
+attributionTemplate: 著作権表記
+links:
+  official: 公式サイト (必須)
+  rules: ルールページ
+  guidelines: ガイドラインページ
+tags:
+  - "TRPG"
+  - "その他のシステムの特徴のタグ"
 ```
 
 ## 開発
